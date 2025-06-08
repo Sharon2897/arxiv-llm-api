@@ -1,2 +1,3 @@
 # arxiv-llm-api
-API project using LLM to query scientific PDFs from arXiv
+
+Simple FastAPI app to query arXiv paper texts using HuggingFace LLMs.
